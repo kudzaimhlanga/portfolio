@@ -13,7 +13,7 @@ export function fadeIn(){
             },
             scrollTrigger: {
                 trigger: element,
-                start: "top 50%",
+                start: "top 85%",
                 scrub: true
             }
         })

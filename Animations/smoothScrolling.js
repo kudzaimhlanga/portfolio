@@ -5,7 +5,7 @@ export function smoothScrolling() {
   class Scroll extends Lenis {
     constructor() {
       super({
-        duration: 1.5,
+        duration: 1,
         easing: (x) => 1 - Math.pow(1 - x, 4), // https://easings.net
         direction: "vertical",
         smooth: true,

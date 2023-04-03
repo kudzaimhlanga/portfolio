@@ -21,7 +21,7 @@ export function splittingType(){
             },
             scrollTrigger: {
                 trigger: section,
-                start: "top 70%",
+                start: "top 85%",
                 scrub: true
             }
         })

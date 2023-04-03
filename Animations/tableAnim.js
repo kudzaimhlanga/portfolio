@@ -12,7 +12,7 @@ export function tableAnim(){
             },
             scrollTrigger: {
                 trigger: row,
-                start: "top 80%",
+                start: "top 85%",
                 scrub: true
             }
         })
